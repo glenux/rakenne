@@ -33,6 +33,7 @@ Note: _rakenne_ means _structure_ in Finnish.
   * :x: NoSQL: mongodb
   * :x: NoSQL: cassandra CQL
 
+
 ## Contributing
 
 1. Fork it ( http://github.com/glenux/rakenne/fork )
@@ -44,6 +45,7 @@ Note: _rakenne_ means _structure_ in Finnish.
 ## Authors & contributors
 
 * [Glenn Y. Rolland](https://github.com/glenux) - creator and maintainer
+* You? Fork the project and become a contributor!
 
 ## Sponsors
 

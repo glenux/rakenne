@@ -14,7 +14,7 @@ entities:
     - name: id
       type: integer
       key: true
-      option: autoincrement
+      options: ['autoincrement']
     - name: password_hash
       type: varchar
       limit: 250

@@ -26,7 +26,7 @@ relationships:
     links:
       - user: 
           eq: 1
-      - url
+      - url:
           gte: 0
           lte: n
     properties: {}

@@ -13,7 +13,7 @@ Note: _rakenne_ means _structure_ in Finnish.
   * :arrow_right: describe entity-relationship diagrams (ERD) using MERISE notation &rArr; [doc/erd-dsl.md](doc/erd-dsl.md)
   * :arrow_right: describe physical diagrams (PD) &rArr; [doc/erd-dsl.md](doc/pd-dsl.md)
 * :x: provide a command-line tool accepting commands for all operations
-* :x: render models into diagrams
+* :x: render models into diagrams with [GraphViz](https://www.graphviz.org/)
   * :x: ERD to MERISE MCD diagrams
   * :x: ERD to Chen notation diagrams
   * :x: PD to MERISE MLD diagrams

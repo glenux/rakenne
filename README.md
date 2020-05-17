@@ -10,8 +10,8 @@ Note: _rakenne_ means _structure_ in Finnish.
 ## Roadmap
 
 * :arrow_right: **define a DSL for modeling database**
-  * :x: describe entity-relationship diagrams (ERD) using MERISE notation
-  * :x: describe physical diagrams (PD)
+  * :arrow_right: describe entity-relationship diagrams (ERD) using MERISE notation &rArr; [doc/erd-dsl.md](doc/erd-dsl.md)
+  * :arrow_right: describe physical diagrams (PD) &rArr; [doc/erd-dsl.md](doc/pd-dsl.md)
 * :x: provide a command-line tool for all operations
 * :x: render models into diagrams
   * :x: ERD to MERISE MCD diagrams
@@ -42,10 +42,12 @@ Note: _rakenne_ means _structure_ in Finnish.
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
 
+
 ## Authors & contributors
 
 * [Glenn Y. Rolland](https://github.com/glenux) - creator and maintainer
 * You? Fork the project and become a contributor!
+
 
 ## Sponsors
 
@@ -55,12 +57,14 @@ If you wish to join them and support the work of its author, just participate wi
 
 **>>> [Become a patron or sponsor on Patreon](https://www.patreon.com/glenux) <<<**
 
+
 ## License
 
 Rakenne is Copyright © 2020 Glenn ROLLAND. It is free software, and may be redistributed under the terms specified in the LICENSE.txt file.
 
 ## References
 
-* https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model
-* https://www.lucidchart.com/pages/er-diagrams
-* https://www.youtube.com/watch?v=LR0Ip5Jenbk
+* [Wikipedia: Entity-relationship model](https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model)
+* [Lucidchart: ER diagrams](https://www.lucidchart.com/pages/er-diagrams)
+* [Youtube: 04.5 - Règles de vérification du MCD](https://www.youtube.com/watch?v=LR0Ip5Jenbk)
+

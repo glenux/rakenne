@@ -68,3 +68,6 @@ Rakenne is Copyright © 2020 Glenn ROLLAND. It is free software, and may be redi
 * [Lucidchart: ER diagrams](https://www.lucidchart.com/pages/er-diagrams)
 * [Youtube: 04.5 - Règles de vérification du MCD](https://www.youtube.com/watch?v=LR0Ip5Jenbk)
 
+## Alternative
+
+* [MoCoDo: a ERD/PD renderer in python](https://rawgit.com/laowantong/mocodo/master/doc/fr_refman.html)

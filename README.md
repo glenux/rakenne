@@ -70,4 +70,4 @@ Rakenne is Copyright © 2020 Glenn ROLLAND. It is free software, and may be redi
 
 ## Alternative
 
-* [MoCoDo: a ERD/PD renderer in python](https://rawgit.com/laowantong/mocodo/master/doc/fr_refman.html)
+* [MoCoDo: a command-line ERD/PD renderer in python](https://rawgit.com/laowantong/mocodo/master/doc/fr_refman.html)

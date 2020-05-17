@@ -9,29 +9,29 @@ Note: _rakenne_ means _structure_ in Finnish.
 
 ## Roadmap
 
-* define a DSL for modeling database
-  * describe entity-relationship diagrams (ERD) using MERISE notation
-  * describe physical diagrams (PD)
-* provide a command-line tool for all operations
-* render models into diagrams
-  * ERD to MERISE MCD diagrams
-  * ERD to Chen notation diagrams
-  * PD to MERISE MLD diagrams
-* validate model
-* convert across different database reprentations
-  * to convert ERD to PD
-  * to convert PD to database specific SQL
-  * to reverse-engineer database-specific SQL to PD
-  * to reverse-engineer PD to ERD
-* support multiple physical models
-  * sql
-  * nosql
-* support multiple SQL and NoSQL languages
-  * SQL: postgresql
-  * SQL: mariadb
-  * NoSQL: redis
-  * NoSQL: mongodb
-  * NoSQL: cassandra CQL
+* :arrow_right: **define a DSL for modeling database**
+  * :x: describe entity-relationship diagrams (ERD) using MERISE notation
+  * :x: describe physical diagrams (PD)
+* :x: provide a command-line tool for all operations
+* :x: render models into diagrams
+  * :x: ERD to MERISE MCD diagrams
+  * :x: ERD to Chen notation diagrams
+  * :x: PD to MERISE MLD diagrams
+* :x: validate model
+* :x: convert across different database reprentations
+  * :x: convert ERD to PD
+  * :x: convert PD to database specific SQL
+  * :x: reverse-engineer database-specific SQL to PD
+  * :x: reverse-engineer PD to ERD
+* :x: support multiple physical models
+  * :x: sql
+  * :x: nosql
+* :x: support multiple SQL and NoSQL languages
+  * :x: SQL: postgresql
+  * :x: SQL: mariadb
+  * :x: NoSQL: redis
+  * :x: NoSQL: mongodb
+  * :x: NoSQL: cassandra CQL
 
 ## Contributing
 

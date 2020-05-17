@@ -11,27 +11,46 @@
 ```
 entities:
   user:
-    id: UUID
-    password_hash: VARCHAR(250)
-    role: VARCHAR(10)
-    created_at: DATETIME
-    updated_at: DATETIME
+    - name: id
+      type: uuid
+      key: true
+    - name: password_hash
+      type: varchar
+      limit: 250
+    - name: role
+      type: varchar
+      limit: 10
+    - name: created_at
+      type: datetime
+    - name: updated_at
+      type: datetime
   url:
-    id: VARCHAR(250)
-    custom_id: VARCHAR(250)
-    source_url: TEXT
-    short_url: VARCHAR(250)
-    created_at: DATETIME
-    updated_at: DATETIME
-    expires_at: DATETIME
+    - name: id
+      type: varchar
+      limit: 250
+      key: true
+    - name: custom_id
+      type: varchar
+      limit: 250
+    - name: source_url
+      type: text
+    - name: short_url
+      type: varchar
+      limit: 250
+    - name: created_at
+      type: datetime
+    - name: updated_at
+      type: datetime
+    - name: expires_at
+      type: datetime
 
 relationships:
   manages_urls:
     links:
-      - user: 
-          eq: 1
-      - url:
-          gte: 0
-          lte: n
-    properties: {}
+      - name: user: 
+        equals: 1
+      - name: url:
+        min: 0
+        max: n
+    properties: []
 ```

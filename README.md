@@ -43,7 +43,7 @@ Please read [doc/contributing.md](doc/contributing.md)
 
 ## Sponsors
 
-[Vitreous](https://github.com/glenux/vitreous) is an independent project whose development and maintenance is made possible thanks to the support of its patrons.
+[Rakenne](https://github.com/glenux/rakenne) is an independent project whose development and maintenance is made possible thanks to the support of its patrons.
 
 If you wish to join them and support the work of its author, just participate with this link:
 
@@ -51,7 +51,7 @@ If you wish to join them and support the work of its author, just participate wi
 
 ## License
 
-Vitreous is Copyright © 2020 Glenn ROLLAND. It is free software, and may be redistributed under the terms specified in the LICENSE.txt file.
+Rakenne is Copyright © 2020 Glenn ROLLAND. It is free software, and may be redistributed under the terms specified in the LICENSE.txt file.
 
 ## References
 

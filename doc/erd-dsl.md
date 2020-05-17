@@ -2,6 +2,10 @@
 
 ## Goals
 
+* Describe all possible cases according to MERISE
+* Be simple to read and write by a human user
+* Be simple to parse by a machine
+
 ## Example
 
 ```

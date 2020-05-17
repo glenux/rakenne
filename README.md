@@ -72,3 +72,4 @@ Rakenne is Copyright © 2020 Glenn ROLLAND. It is free software, and may be redi
 
 * [MoCoDo: a command-line ERD/PD renderer in python](https://rawgit.com/laowantong/mocodo/master/doc/fr_refman.html)
 * [Schemalint: Lint database schemas](https://github.com/kristiandupont/schemalint)
+* [SQLFairy: The SQL Translator](http://sqlfairy.sourceforge.net/)

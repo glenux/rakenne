@@ -24,7 +24,10 @@ entities:
 relationships:
   manages_urls:
     links:
-      - user: [1, 1]
-      - url: [0, n]
+      - user: 
+          eq: 1
+      - url
+          gte: 0
+          lte: n
     properties: {}
 ```

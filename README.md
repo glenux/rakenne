@@ -9,7 +9,7 @@ Note: _rakenne_ means _structure_ in Finnish.
 
 ## Roadmap
 
-* provide a DSL for modeling database
+* define a DSL for modeling database
   * describe entity-relationship diagrams (ERD) using MERISE notation
   * describe physical diagrams (PD)
 * provide a command-line tool for all operations
@@ -33,6 +33,25 @@ Note: _rakenne_ means _structure_ in Finnish.
   * NoSQL: mongodb
   * NoSQL: cassandra CQL
 
+## Contributing
+
+Please read [doc/contributing.md](doc/contributing.md)
+
+## Authors & contributors
+
+* [Glenn Y. Rolland](https://github.com/glenux) - creator and maintainer
+
+## Sponsors
+
+[Vitreous](https://github.com/glenux/vitreous) is an independent project whose development and maintenance is made possible thanks to the support of its patrons.
+
+If you wish to join them and support the work of its author, just participate with this link:
+
+**>>> [Become a patron or sponsor on Patreon](https://www.patreon.com/glenux) <<<**
+
+## License
+
+Vitreous is Copyright © 2020 Glenn ROLLAND. It is free software, and may be redistributed under the terms specified in the LICENSE.txt file.
 
 ## References
 

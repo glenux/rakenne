@@ -12,8 +12,9 @@
 entities:
   user:
     - name: id
-      type: uuid
+      type: integer
       key: true
+      option: autoincrement
     - name: password_hash
       type: varchar
       limit: 250

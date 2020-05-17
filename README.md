@@ -25,13 +25,13 @@ Note: _rakenne_ means _structure_ in Finnish.
   * :x: reverse-engineer PD to ERD
 * :x: support multiple physical models
   * :x: sql
-  * :x: nosql
+  * :x: nosql (:warning: that requires de-normalizing)
 * :x: support multiple SQL and NoSQL languages
   * :x: SQL: postgresql
   * :x: SQL: mariadb
   * :x: NoSQL: redis
   * :x: NoSQL: mongodb
-  * :x: NoSQL: cassandra CQL
+  * :x: NoSQL: cassandra CQL (:warning: that requires knowing which requests will be made)
 
 
 ## Contributing

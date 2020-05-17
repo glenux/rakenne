@@ -1,7 +1,7 @@
 
 # <img src="doc/logo-display-only.svg" width="50%" style="display: block; margin: 0 auto;" alt="Rakenne" />
 
-Rakenne is a command-line database modeling tool for command line.
+Rakenne is a database modeling tool for command line.
 
 Note: _rakenne_ means _structure_ in Finnish.
 

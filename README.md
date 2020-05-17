@@ -1,6 +1,10 @@
 
 # <img src="doc/logo-display-only.svg" width="50%" style="display: block; margin: 0 auto;" alt="Rakenne" />
 
+[![GitHub license](https://img.shields.io/github/license/glenux/rakenne.svg)](https://github.com/glenux/rakenne/blob/master/LICENSE.txt)
+[![Donate on patreon](https://img.shields.io/badge/patreon-donate-orange.svg)](https://patreon.com/glenux)
+
+
 Rakenne is a database modeling tool for command line written in Crystal.
 
 For now, It is a toy project to improve author's skills with the language and its various libraries. **It is very early stage and is not supposed to work (yet). Please don't use it in production.** :warning:

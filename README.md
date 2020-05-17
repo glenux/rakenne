@@ -1,29 +1,30 @@
-# Rakenne
+
+# <img src="doc/logo-display-only.svg" width="50%" style="display: block; margin: 0 auto;" alt="Rakenne" />
 
 (means _structure_ in Finish)
 
 Rakenne is a database modeling tool.
 
-Its goal is:
+## Roadmap
 
-* to provide a DSL for modeling database
-  * to describe entity-relationship diagrams (ERD) using MERISE notation
-  * to describe physical diagrams (PD)
-* to provide a command-line tool for all operations
-* to render models into diagrams
+* provide a DSL for modeling database
+  * describe entity-relationship diagrams (ERD) using MERISE notation
+  * describe physical diagrams (PD)
+* provide a command-line tool for all operations
+* render models into diagrams
   * ERD to MERISE MCD diagrams
   * ERD to Chen notation diagrams
   * PD to MERISE MLD diagrams
-* to validate model
-* to convert across different database reprentations
+* validate model
+* convert across different database reprentations
   * to convert ERD to PD
   * to convert PD to database specific SQL
   * to reverse-engineer database-specific SQL to PD
   * to reverse-engineer PD to ERD
-* to support multiple physical models
+* support multiple physical models
   * sql
   * nosql
-* to support multiple SQL and NoSQL languages
+* support multiple SQL and NoSQL languages
   * SQL: postgresql
   * SQL: mariadb
   * NoSQL: redis

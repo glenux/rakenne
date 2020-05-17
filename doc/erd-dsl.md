@@ -55,3 +55,7 @@ relationships:
         max: n
     properties: []
 ```
+
+## References
+
+* [Petit cours de Modélisation, Christophe DARMANGEAT](http://pise.info/modelisation/)

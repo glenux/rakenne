@@ -14,8 +14,8 @@ Note: _rakenne_ means _structure_ in Finnish.
 ## Roadmap
 
 * :arrow_right: **define a DSL for modeling database**
-  * :arrow_right: describe entity-relationship diagrams (ERD) using MERISE notation &rArr; [doc/erd-dsl.md](doc/erd-dsl.md)
-  * :arrow_right: describe physical diagrams (PD) &rArr; [doc/erd-dsl.md](doc/pd-dsl.md)
+  * :arrow_right: [describe entity-relationship diagrams (ERD)](doc/erd-dsl.md) using MERISE notation
+  * :arrow_right: [describe physical diagrams (PD)](doc/pd-dsl.md)
 * :x: provide a command-line tool accepting commands for all operations
 * :x: render models into diagrams with [GraphViz](https://www.graphviz.org/)
   * :x: ERD to MERISE MCD diagrams

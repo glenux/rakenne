@@ -15,18 +15,18 @@ Note: _rakenne_ means _structure, construction_ in Finnish.
 
 * :arrow_right: **define a DSL for modeling database**
   * :arrow_right: [describe entity-relationship diagrams (ERD)](doc/erd-dsl.md) using MERISE notation
-  * :arrow_right: [describe physical diagrams (PD)](doc/pd-dsl.md)
+  * :arrow_right: [describe logical model diagrams (LMD)](doc/pd-dsl.md)
 * :x: provide a command-line tool accepting commands for all operations
 * :x: render models into diagrams with [GraphViz](https://www.graphviz.org/)
   * :x: ERD to MERISE MCD diagrams
   * :x: ERD to Chen notation diagrams
-  * :x: PD to MERISE MLD diagrams
+  * :x: LMD to MERISE MLD diagrams
 * :x: validate model
 * :x: convert across different database reprentations
-  * :x: convert ERD to PD
-  * :x: convert PD to database specific SQL
-  * :x: reverse-engineer database-specific SQL to PD
-  * :x: reverse-engineer PD to ERD
+  * :x: convert ERD to LMD
+  * :x: convert LMD to database specific SQL
+  * :x: reverse-engineer database-specific SQL to LMD
+  * :x: reverse-engineer LMD to ERD
 * :x: support multiple physical models
   * :x: sql
   * :x: nosql (:warning: that requires de-normalizing)

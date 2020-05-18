@@ -9,7 +9,7 @@ Rakenne is a database modeling tool for command line written in [Crystal](https:
 
 For now, It is a toy project to improve author's skills with the language and its various libraries. **It is very early stage and is not supposed to work (yet). Please don't use it in production.** :warning:
 
-Note: _rakenne_ means _structure_ in Finnish.
+Note: _rakenne_ means _structure, construction_ in Finnish.
 
 ## Roadmap
 

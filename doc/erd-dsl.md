@@ -8,7 +8,7 @@
 
 ## Example
 
-```
+```yaml
 entities:
   user:
     - name: id

@@ -5,7 +5,7 @@
 [![Donate on patreon](https://img.shields.io/badge/patreon-donate-orange.svg)](https://patreon.com/glenux)
 
 
-Rakenne is a database modeling tool for command line written in Crystal.
+Rakenne is a database modeling tool for command line written in [Crystal](https://crystal-lang.org/).
 
 For now, It is a toy project to improve author's skills with the language and its various libraries. **It is very early stage and is not supposed to work (yet). Please don't use it in production.** :warning:
 
